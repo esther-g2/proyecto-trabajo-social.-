@@ -14,7 +14,7 @@ Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad d
 ## De que trata: 
 Aborda como la enfermedad pulmonar EPOC, tiene un impacto psicosocial tanto en sus pacientes como en su círculo cercano. Está principalmente dirigido a los afectados de esta enfermedad. Asismismo, se pretende analizar la intervención desde el trabajo social sanitario  
 >  ¿Qué papel puede desempeñar el Trabajo Social Sanitario en la atención de las necesidades sociales y familiares de las personas con EPOC?
-> ##Objetivos
+##Objetivos
 - Describir las principales repercusiones psicosociales que puede generar la EPOC.   
 - Identificar las necesidades sociales y familiares.
 - Identificar los recursos sociales y sanitarios disponibles.
