@@ -26,4 +26,4 @@ Aborda como la enfermedad pulmonar EPOC, tiene un impacto psicosocial tanto en s
 - `index.html`: la web con el asistente
 - `README.md`: esta presentación
   ## Autoría
-[Esther Gómez Sedeño] — curso [2026/2027]
+Esther Gómez Sedeño — curso 2026/2027
